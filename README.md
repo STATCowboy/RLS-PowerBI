@@ -1,2 +1,2 @@
 # RLS-PowerBI
-Row Level Security in Power BI
+Row Level Security in Power BI Demo Files
